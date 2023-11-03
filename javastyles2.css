@@ -1,0 +1,48 @@
+body {
+    background-color: #f0e6d2; /* Light beige */
+    color: #5c3b1e; /* Brown */
+    font-family: Arial, sans-serif;
+}
+
+.wrapper {
+    max-width: 400px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 20px;
+    background-color: #d2b48c; /* Tan */
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    color: #4c1c00; /* Dark brown */
+}
+
+h2 {
+    color: #4c1c00; /* Dark brown */
+}
+
+p {
+    font-size: 24px;
+}
+
+span {
+    color: #4c1c00; /* Dark brown */
+    font-weight: bold;
+}
+
+button {
+    background-color: #8b4513; /* Saddle brown */
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    margin: 10px 5px;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #6e381d; /* Slightly darker saddle brown on hover */
+}
